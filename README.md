@@ -12,3 +12,6 @@ healthcare ai prediction system
 medical data classification ai  
 
 Heart Disease Prediction using Stacking Ensemble (Machine Learning)  This project predicts whether a person is at risk of heart disease using a stacking ensemble machine-learning model. It combines predictions from multiple base models and passes them into a meta-learner for improved accuracy.
+
+
+<img width="687" height="668" alt="image" src="https://github.com/user-attachments/assets/eabacf7f-cf4b-4bd0-a468-44e503ef4e21" />
